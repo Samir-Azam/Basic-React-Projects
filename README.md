@@ -23,7 +23,7 @@ This repository includes a variety of projects ranging from beginner-friendly ap
 |--------------|-------------|-----------|-------------|
 | `Background Changer`  |  A simple app that changes the background color dynamically | [Live](#) | [Code](./01-Bg-Changer)
 | `Password Generator`  | A tool to generate strong, customizable passwords | [Live](#) | [Code](./02-Pass=Generator) |
-| `Custom React`  | A project mimicking React's core functionalities | coming soon | [Code](./03-Custom-React) |
+| `Custom React`  | A project mimicking React's core functionalities | [Live](#) | [Code](./03-Custom-React) |
 
 > ✨ _More projects coming soon..._
 
@@ -46,6 +46,7 @@ git clone https://github.com/Samir-Azam/react-projects.git
 cd react-projects/project-name
 npm install
 npm run dev
+```
 
 Hi, I'm Samir Azam 👋
 I'm a passionate Web Developer exploring the world of web development one project at a time.
