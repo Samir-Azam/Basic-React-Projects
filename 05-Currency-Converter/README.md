@@ -85,7 +85,7 @@ currency-exchanger/
 ## 📸 Screenshot
 
 
-![Currency Exchanger Screenshot](./public/screenshot.png)
+![Currency Exchanger Screenshot](./screenshot.png)
 
 
 ---
