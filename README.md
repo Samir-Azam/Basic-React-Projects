@@ -42,7 +42,7 @@ This repository includes a variety of projects ranging from beginner-friendly ap
 To run any project locally:
 
 ```bash
-git clone https://github.com/Samir-Azam/react-projects.git
+git clone https://github.com/Samir-Azam/Basic-React-Projects.git
 cd react-projects/project-name
 npm install
 npm run dev
